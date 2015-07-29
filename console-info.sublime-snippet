@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+console.info(${1:msg});
+]]></content>
+  <tabTrigger>ci</tabTrigger>
+  <scope>source.js,source.jsx</scope>
+  <description>console.info</description>
+</snippet>
